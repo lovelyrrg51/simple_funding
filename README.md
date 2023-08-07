@@ -50,3 +50,14 @@ https://goerli.etherscan.io/address/0x437f52E6338E0dAE4eA2327195F6099C56A5Ae6e#c
 ```
 https://goerli.etherscan.io/address/0x1af98c3e9d959ac978b12d3e3b401fc61b4c5b01#code
 ```
+
+## 4. Deployed Contract on Linea Georli
+### 1) Proxy Contract
+```
+https://goerli.lineascan.build/address/0x4b4ecb55ad3f230eaa718e0b053fdd9b67e28715#code
+```
+
+### 2) SimpleFunding Contract
+```
+https://goerli.lineascan.build/address/0x9058cf787e453ec161d22223378834454e5d976c#code
+```
